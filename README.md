@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Enjoy the ride to the #bug island!
-![Ramasindi](Stroke Offset Animation.sgv)
+![Ramasindi](StrokeOffsetAnimation.svg)
 ![gitartwork](gitartwork.svg)
