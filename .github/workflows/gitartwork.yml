@@ -15,5 +15,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: Ramasindi
-           text: THALU-DEV
+           text: THALU-RT
       - uses: jasineri/simple-push-action@v1
