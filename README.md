@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Enjoy the ride to the #bug island!
+![gitartwork](gitartwork.svg)
