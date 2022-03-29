@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Enjoy the ride to the #bug island!
 <!--
 **Ramasindi/Ramasindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ramasindi](Kiss.svg)
-Enjoy the ride to the #bug island!
-![gitartwork](gitartwork.svg)
+![](gitartwork.svg)
+<img src="Kiss.svg" align="left" width="350" height="300">
+<img src="Nerd.svg" align="left" width="350" height="300">
