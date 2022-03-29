@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ramasindi](Kiss.svg)
 Enjoy the ride to the #bug island!
 ![gitartwork](gitartwork.svg)
